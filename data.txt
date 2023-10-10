@@ -1,0 +1,5 @@
+{id=1, name='Arajwal', salary=50000.0}
+{id=2, name='Srajkta', salary=70000.0}
+{id=3, name='Qarika', salary=60000.0}
+{id=4, name='Cadasaheb', salary=80000.0}
+{id=5, name='Shyam', salary=5.0E7}
